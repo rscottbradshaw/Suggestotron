@@ -1,28 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Suggestotron is a basic rails project to introduce Ruby on Rails to non developers.
 
-Things you may want to cover:
+To download to your computer from the terminal:
+git clone https://github.com/rscottbradshaw/Suggestotron.git
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Or you may visit this project on Heroku @ https://ancient-stream-3130.herokuapp.com/
